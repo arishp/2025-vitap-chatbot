@@ -1,0 +1,1 @@
+Link to fashion bot repo: https://github.com/kaushikeebhawsar99/Adaptive-Recommendation-Chatbot-with-RAG-and-Vector-DB
